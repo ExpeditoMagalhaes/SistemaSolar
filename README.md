@@ -25,6 +25,8 @@ Será preciso os seguintes conjuntos de bibliotecas e programas em seu computado
 ## Executando
  Após ter baixado o arquivo com o projeto, deve se inicializar 
 
+## Exemplo
+
 Visão das Câmeras: <br />
 
 Câmera 1:
@@ -40,7 +42,7 @@ Câmera 3:
 
 
 <br />
-
+## Autores 
 Equipe 2:
   <br />Expedito Rodrigues Magalhães Filho - 378989
   <br />Francisco Anderson Mendonça Freire - 385107
