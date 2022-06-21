@@ -1,6 +1,7 @@
 # SistemaSolar
 Trabalho de Computação Gráfica, 2022.1
-
+<br />
+Link para o Youtube: https://youtu.be/J1A77RbASiE
 
 
 Visão das Câmeras: <br />
@@ -18,5 +19,8 @@ Câmera 3:
 
 
 <br />
+
 Autores:
+  Expedito Rodrigues Magalhães Filho - 378989
+  Francisco Anderson Mendonça Freire - 385107
   Francisco Evandro Ribeiro Martins Filho - 385143
