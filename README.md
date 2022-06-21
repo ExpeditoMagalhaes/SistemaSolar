@@ -22,6 +22,8 @@ Será preciso os seguintes conjuntos de bibliotecas e programas em seu computado
 -[Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/)<br/>
 -[Glut](https://www.transmissionzero.co.uk/software/freeglut-devel/)
 
+<br\>Em caso de maiores dificuldades para configurar a biblioteca GLUT com o Visual Studio usar como material de apoio o passo a passo abaixo:
+
 ## Executando
  Após ter baixado o arquivo com o projeto, deve se inicializar 
 
