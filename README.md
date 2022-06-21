@@ -21,6 +21,6 @@ Câmera 3:
 <br />
 
 Autores:
-  Expedito Rodrigues Magalhães Filho - 378989
-  Francisco Anderson Mendonça Freire - 385107
-  Francisco Evandro Ribeiro Martins Filho - 385143
+  <br />Expedito Rodrigues Magalhães Filho - 378989
+  <br />Francisco Anderson Mendonça Freire - 385107
+  <br />Francisco Evandro Ribeiro Martins Filho - 385143
