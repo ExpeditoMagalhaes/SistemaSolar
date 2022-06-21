@@ -14,7 +14,8 @@ Câmera 2:
 
 
 Câmera 3:
-*arquivo +10MB*
+![Camera3Solar](https://user-images.githubusercontent.com/71902902/174696861-2b86dd02-040a-4287-a1b9-9c705a25b22a.gif)
+
 
 <br />
 Autores:
