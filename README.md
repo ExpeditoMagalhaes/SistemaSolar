@@ -9,17 +9,17 @@ O link para o vídeo com a simulação do trabalho no Youtube está no link abai
 
 Link para o Youtube: https://youtu.be/J1A77RbASiE
 
-##Inicialização
+## Inicialização
 
 Baixe o projeto clicando no botão de download:
 
 https://github.com/ExpeditoMagalhaes/SistemaSolar.git
 
-###Pré-Requisitos
-
+### Pré-Requisitos
+ 
 Será preciso os seguintes conjuntos de bibliotecas e programas em seu computador local:
 
--[Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/)
+-[Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/)<br/>
 -[Glut](https://www.transmissionzero.co.uk/software/freeglut-devel/)
 
 ###Executando
