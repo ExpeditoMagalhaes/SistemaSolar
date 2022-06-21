@@ -15,16 +15,15 @@ Baixe o projeto clicando no botão de download:
 
 https://github.com/ExpeditoMagalhaes/SistemaSolar.git
 
-### Pré-Requisitos
+## Pré-Requisitos
  
 Será preciso os seguintes conjuntos de bibliotecas e programas em seu computador local:
 
 -[Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/)<br/>
 -[Glut](https://www.transmissionzero.co.uk/software/freeglut-devel/)
 
-###Executando
-
-
+## Executando
+ Após ter baixado o arquivo com o projeto, deve se inicializar 
 
 Visão das Câmeras: <br />
 
