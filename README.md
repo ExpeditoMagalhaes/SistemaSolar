@@ -23,11 +23,11 @@ Será preciso os seguintes conjuntos de bibliotecas e programas em seu computado
 -[Glut](https://www.transmissionzero.co.uk/software/freeglut-devel/)
 
 Em caso de maiores dificuldades para configurar a biblioteca GLUT com o Visual Studio usar como material de apoio o passo a passo abaixo:
-### PASSO 1
+#### PASSO 1
 Após baixar a biblioteca GLUT e descompactar o arquivo, deve-se adicioná-la no Visual Studio e para isso primeiro vamos começar com o arquivo dll freeglut \freeglut-MSVC-3.0.0-2.mp\freeglut\bin, esse arquivo deve ser copiado e colado no diretorio “Windows” no drive :C.
-### PASSO 2
+#### PASSO 2
 Após isso, o passo seguinte será pegar a psta GL \freeglut-MSVC-3.0.0-2.mp\freeglut\include e colar dentro da pasta de inclusão (include)  no Visual Studio \Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include
-### PASSO 3
+#### PASSO 3
 Copiar o arquivo freeglut.lib \freeglut-MSVC-3.0.0-2.mp\freeglut\lib e colar no Visual Studio na pasta lib \Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x86
 ## Executando
  Após ter baixado o arquivo com o projeto, deve se inicializar 
