@@ -7,7 +7,6 @@ Vale ressaltar que o presente trabalho se limita a simular o movimento básico d
 
 O link para o vídeo com a simulação do trabalho no Youtube está no link abaixo:
 
-<br />
 Link para o Youtube: https://youtu.be/J1A77RbASiE
 
 
