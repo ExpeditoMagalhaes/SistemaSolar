@@ -32,6 +32,28 @@ Por fim, deve-se copiar o arquivo freeglut.lib que se encontra no seguinte camin
 
 ## Executando
  Para inicializar o programa, alguns diretórios devem ser modificados, conforme o passo a passo a baixo:
+ 
+ ### Configurando os diretórios
+ Com o projeto YoutubeOpenGL.sln  aberto no Visual Studio deve-se configurar os diretorios.
+
+Clica com o botão direiro na pasta do projeto “YoutubeOpenGL”, propriedades. Será a berto uma janela. Nessa janela deve-se clicar em propriedades de configuração e em Diretorio VC++. Na janela ao lado clica em diretorio de inclisão e em editar (na setinha canto direito) e então coloca o caminho para a pasta Include do projeto. C:\Users\hampe\Downloads\YoutubeOpenGL\YoutubeOpenGL\Libraries\include
+Para o diretorio de biblioteca deve-se colocar o caminho para a pasta Lib do projeto C:\Users\hampe\Downloads\YoutubeOpenGL\YoutubeOpenGL\Libraries\lib
+NO C/C++ Geral, para diretorios de inclisão adicional deve-se colocar o caminho para freeglut e include e também o caminho para librares include
+C:\Users\hampe\Downloads\YoutubeOpenGL\YoutubeOpenGL\Libraries\freeglut\include
+C:\Users\hampe\Downloads\YoutubeOpenGL\YoutubeOpenGL\Libraries\include
+Para Todas as opçções, diretorio de inclusão adicionais coloca o caminho para o caminho para freeglut e include e também o caminho para librares include
+C:\Users\hampe\Downloads\YoutubeOpenGL\YoutubeOpenGL\Libraries\freeglut\include
+C:\Users\hampe\Downloads\YoutubeOpenGL\YoutubeOpenGL\Libraries\include
+
+No Vinculador -> Geral -> Diretorio de biblioteca adicional coloca o caminho para librares freeglut x64 pois o projeto está em 64
+C:\Users\hampe\Downloads\YoutubeOpenGL\YoutubeOpenGL\Libraries\freeglut\lib\x64
+Para Vinculador -> Entradas-> Dependenia adicional deve-se digitar os seguintes comando 
+opengl32.lib
+glfw3.lib
+freeglut.lib
+glew32.lib
+Para todas as plataformas
+
 
 ## Exemplo
 
