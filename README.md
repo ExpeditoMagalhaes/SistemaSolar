@@ -44,15 +44,15 @@ Para o **Diretorio de biblioteca** deve-se colocar o caminho para a pasta **Lib*
 
 Posteriormente, deve-se clicar em **C/C++** e em seguida em **Geral**, para **Diretorios de inclusão adicional** deve-se colocar o caminho para a pasta **include de freeglut**  e também o caminho para **Libraries include**
 
-<sub>\YoutubeOpenGL\YoutubeOpenGL\Libraries\freeglut\include</sub>
+<sub>\YoutubeOpenGL\YoutubeOpenGL\Libraries\freeglut\include</sub><br/>
 <sub>\YoutubeOpenGL\YoutubeOpenGL\Libraries\include</sub>
 
 Em seguida deve-se clicar em **Todas as opções** e em **Diretorio de inclusão adicionais** e para **Diretorios de inclusão adicional** deve-se colocar o caminho para a pasta **include de freeglut**  e também o caminho para **Libraries include**
 
-<sub>\YoutubeOpenGL\YoutubeOpenGL\Libraries\freeglut\include</sub>
+<sub>\YoutubeOpenGL\YoutubeOpenGL\Libraries\freeglut\include</sub><br/>
 <sub>\YoutubeOpenGL\YoutubeOpenGL\Libraries\include</sub>
 
-Por fim, deve-se clicar em **Vinculador**,**Geral** e para **Diretorio de biblioteca adicional** coloca o caminho para librares freeglut x64 pois o projeto está em x64
+Por fim, deve-se clicar em **Vinculador** e em seguida em **Geral** e para **Diretorio de biblioteca adicional** coloca o caminho para librares freeglut x64 pois o projeto está em x64
 
 <sub>\YoutubeOpenGL\YoutubeOpenGL\Libraries\freeglut\lib\x64</sub>
 
