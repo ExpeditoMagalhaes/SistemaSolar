@@ -37,7 +37,7 @@ Por fim, deve-se copiar o arquivo **freeglut.lib** que se encontra no seguinte c
  Com o projeto YoutubeOpenGL.sln aberto no Visual Studio deve-se configurar os diretorios.
 
 Clica com o botão direito na pasta do projeto “YoutubeOpenGL" e então em Propriedades. Será aberto uma janela flutuante. 
-Nessa janela deve-se clicar em **Propriedades de configuração** e abiaxo em **Diretorio VC++**.
+Nessa janela deve-se clicar em **Propriedades de configuração** e abaixo em **Diretorio VC++**.
 Na aba ao lado clica-se em **Diretorio de inclusão** e em editar *(na setinha canto direito)* e então cola o caminho para a pasta Include do projeto. <sub>\YoutubeOpenGL\YoutubeOpenGL\Libraries\include</sub>
 
 Para o **Diretorio de biblioteca** deve-se colocar o caminho para a pasta **Lib** do projeto <sub>\YoutubeOpenGL\YoutubeOpenGL\Libraries\lib</sub>
