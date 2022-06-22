@@ -7,7 +7,7 @@ Vale ressaltar que o presente trabalho se limita a simular o movimento básico d
 
 O link para o vídeo com a simulação do trabalho no Youtube se encontra abaixo:
 
-* Link para o Youtube: * https://youtu.be/J1A77RbASiE
+*Link para o Youtube:* https://youtu.be/J1A77RbASiE
 
 ## Inicialização
 
@@ -24,19 +24,22 @@ Será preciso os seguintes conjuntos de bibliotecas e programas em seu computado
 
 Após baixar a biblioteca GLUT e descompactar o arquivo, deve-se adicioná-la no Visual Studio. Caso tenha dificuldades para configurar a biblioteca GLUT com o Visual Studio usar como material de apoio o passo a passo abaixo:
 #### PASSO 1
-Primeiro vamos começar com o arquivo ** freeglut.dll ** que se encontra no seguinte caminho * \freeglut-MSVC-3.0.0-2.mp\freeglut\bin *, esse arquivo deve ser copiado e colado no diretorio “Windows” no drive (:C).
+Primeiro vamos começar com o arquivo **freeglut.dll** que se encontra no seguinte caminho *\freeglut-MSVC-3.0.0-2.mp\freeglut\bin*, esse arquivo deve ser copiado e colado no diretorio “Windows” no drive (:C).
 #### PASSO 2
-Posteriormente, deve-se copiar a pasta GL que se encontra no seguinte caminho \freeglut-MSVC-3.0.0-2.mp\freeglut\include e colar dentro da pasta de inclusão (include)  no Visual Studio que se encontra no seguinte caminho \Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include
+Posteriormente, deve-se copiar a pasta **GL** que se encontra no seguinte caminho *\freeglut-MSVC-3.0.0-2.mp\freeglut\include* e colar dentro da pasta de **inclusão (include)** no Visual Studio que se encontra no seguinte caminho *\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include*
 #### PASSO 3
-Por fim, deve-se copiar o arquivo freeglut.lib que se encontra no seguinte caminho \freeglut-MSVC-3.0.0-2.mp\freeglut\lib e colar no Visual Studio na pasta lib  que se encontra no seguinte caminho \Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x86
+Por fim, deve-se copiar o arquivo **freeglut.lib** que se encontra no seguinte caminho *\freeglut-MSVC-3.0.0-2.mp\freeglut\lib* e colar no Visual Studio na pasta **lib**  que se encontra no seguinte caminho *\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib*
 
 ## Executando
  Para inicializar o programa, alguns diretórios devem ser modificados, conforme o passo a passo a baixo:
  
  ### Configurando os diretórios
- Com o projeto YoutubeOpenGL.sln  aberto no Visual Studio deve-se configurar os diretorios.
+ Com o projeto YoutubeOpenGL.sln aberto no Visual Studio deve-se configurar os diretorios.
 
-Clica com o botão direiro na pasta do projeto “YoutubeOpenGL”, propriedades. Será a berto uma janela. Nessa janela deve-se clicar em propriedades de configuração e em Diretorio VC++. Na janela ao lado clica em diretorio de inclisão e em editar (na setinha canto direito) e então coloca o caminho para a pasta Include do projeto. C:\Users\hampe\Downloads\YoutubeOpenGL\YoutubeOpenGL\Libraries\include
+Clica com o botão direiro na pasta do projeto “YoutubeOpenGL" e então em Propriedades. Será a berto uma janela flutuante. 
+Nessa janela deve-se clicar em **Propriedades de configuração** e abiaxo em **Diretorio VC++**.
+Na aba ao lado clica-se em **Diretorio de inclusão** e em editar *(na setinha canto direito)* e então cola o caminho para a pasta Include do projeto. <sup>\YoutubeOpenGL\YoutubeOpenGL\Libraries\include</sup>
+
 Para o diretorio de biblioteca deve-se colocar o caminho para a pasta Lib do projeto C:\Users\hampe\Downloads\YoutubeOpenGL\YoutubeOpenGL\Libraries\lib
 NO C/C++ Geral, para diretorios de inclisão adicional deve-se colocar o caminho para freeglut e include e também o caminho para librares include
 C:\Users\hampe\Downloads\YoutubeOpenGL\YoutubeOpenGL\Libraries\freeglut\include
