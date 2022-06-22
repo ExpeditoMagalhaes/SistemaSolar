@@ -7,11 +7,11 @@ Vale ressaltar que o presente trabalho se limita a simular o movimento básico d
 
 O link para o vídeo com a simulação do trabalho no Youtube se encontra abaixo:
 
-Link para o Youtube: https://youtu.be/J1A77RbASiE
+* Link para o Youtube: * https://youtu.be/J1A77RbASiE
 
 ## Inicialização
 
-Baixe o projeto clicando no botão de download:
+Baixe o projeto clicando no botão de download ZIP:
 
 https://github.com/ExpeditoMagalhaes/SistemaSolar.git
 
@@ -22,9 +22,9 @@ Será preciso os seguintes conjuntos de bibliotecas e programas em seu computado
 -[Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/)<br/>
 -[Glut](https://www.transmissionzero.co.uk/software/freeglut-devel/)
 
-Após baixar a biblioteca GLUT e descompactar o arquivo, deve-se adicioná-la no Visual Studio. Em caso de maiores dificuldades para configurar a biblioteca GLUT com o Visual Studio usar como material de apoio o passo a passo abaixo:
+Após baixar a biblioteca GLUT e descompactar o arquivo, deve-se adicioná-la no Visual Studio. Caso tenha dificuldades para configurar a biblioteca GLUT com o Visual Studio usar como material de apoio o passo a passo abaixo:
 #### PASSO 1
-Primeiro vamos começar com o arquivo dll freeglut que se encontra no seguinte caminho \freeglut-MSVC-3.0.0-2.mp\freeglut\bin, esse arquivo deve ser copiado e colado no diretorio “Windows” no drive (:C).
+Primeiro vamos começar com o arquivo ** freeglut.dll ** que se encontra no seguinte caminho * \freeglut-MSVC-3.0.0-2.mp\freeglut\bin *, esse arquivo deve ser copiado e colado no diretorio “Windows” no drive (:C).
 #### PASSO 2
 Posteriormente, deve-se copiar a pasta GL que se encontra no seguinte caminho \freeglut-MSVC-3.0.0-2.mp\freeglut\include e colar dentro da pasta de inclusão (include)  no Visual Studio que se encontra no seguinte caminho \Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include
 #### PASSO 3
@@ -74,9 +74,10 @@ Câmera 3:
 <br />
 
 ## Autores 
-Equipe 2:
+** Equipe 2: **
   <br />Expedito Rodrigues Magalhães Filho - 378989
+  <br />Francilândio Lima - 472644
   <br />Francisco Anderson Mendonça Freire - 385107
   <br />Francisco Evandro Ribeiro Martins Filho - 385143
   <br />Fiama Carla Martins de Sousa - 472959
-  <br />Francilândio Lima - 472644
+  
