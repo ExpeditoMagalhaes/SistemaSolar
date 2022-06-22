@@ -63,7 +63,7 @@ freeglut.lib
 glew32.lib
 
 É importante ressaltar ainda que as configurações devem ser realizadas para *todas as plataformas* <br/>
-*Observação: Os caminhos para os diretórios aqui expostos servem apenas como exemplificação para melhor entendimento. O usuário deve buscar os caminho dos diretórios em seu próprio computador uma vez que cada máquina possui diretórios diferentes.
+*Observação: Os caminhos para os diretórios aqui expostos servem apenas como exemplificação para melhor entendimento. O usuário deve buscar os caminho dos diretórios em seu próprio computador uma vez que cada máquina possui diretórios diferentes.*
 
 
 ## Exemplo
