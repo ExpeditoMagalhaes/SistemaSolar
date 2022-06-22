@@ -53,6 +53,7 @@ Em seguida deve-se clicar em **Todas as opções** e em **Diretorio de inclusão
 <sub>\YoutubeOpenGL\YoutubeOpenGL\Libraries\include</sub>
 
 Por fim, deve-se clicar em **Vinculador**,**Geral** e para **Diretorio de biblioteca adicional** coloca o caminho para librares freeglut x64 pois o projeto está em x64
+
 <sub>\YoutubeOpenGL\YoutubeOpenGL\Libraries\freeglut\lib\x64</sub>
 
 E em **Vinculador**, **Entradas**  para **Dependencia adicional** deve-se digitar os seguintes comando 
@@ -62,6 +63,7 @@ freeglut.lib
 glew32.lib
 
 É importante ressaltar ainda que as configurações devem ser realizadas para *todas as plataformas*
+*Observação: Os caminhos para os diretórios aqui expostos servem apenas como exemplificação para melhor entendimento. O usuário deve buscar os caminho dos diretórios em seu próprio computador uma vez que cada máquina possui diretórios diferentes.
 
 
 ## Exemplo
