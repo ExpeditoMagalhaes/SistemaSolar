@@ -20,7 +20,7 @@ https://github.com/ExpeditoMagalhaes/SistemaSolar.git
 Será preciso os seguintes conjuntos de bibliotecas e programas em seu computador local:
 
 -[Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/)<br/>
--[Glut](https://www.transmissionzero.co.uk/software/freeglut-devel/)
+-[Glut](https://www.transmissionzero.co.uk/software/freeglut-devel/) (Download freeglut 3.0.0 for MSVC )
 
 Após baixar a biblioteca GLUT e descompactar o arquivo, deve-se adicioná-la no Visual Studio. Caso tenha dificuldades para configurar a biblioteca GLUT com o Visual Studio usar como material de apoio o passo a passo abaixo:
 #### PASSO 1
