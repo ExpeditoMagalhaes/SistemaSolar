@@ -11,7 +11,7 @@ O link para o vídeo com a simulação do trabalho no Youtube se encontra abaixo
 
 ## Inicialização
 
-Baixe o projeto clicando no botão de download ZIP:
+Baixe o projeto clicando no botão "CODE" e em download ZIP:
 
 https://github.com/ExpeditoMagalhaes/SistemaSolar.git
 
