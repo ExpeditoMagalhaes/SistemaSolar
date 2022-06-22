@@ -31,7 +31,7 @@ Posteriormente, deve-se copiar a pasta **GL** que se encontra no seguinte caminh
 Por fim, deve-se copiar o arquivo **freeglut.lib** que se encontra no seguinte caminho *\freeglut-MSVC-3.0.0-2.mp\freeglut\lib* e colar no Visual Studio na pasta **lib**  que se encontra no seguinte caminho *\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib*
 
 ## Executando
- Para inicializar o programa, alguns diretórios devem ser modificados, conforme o passo a passo a baixo:
+ Para inicializar o programa, alguns diretórios devem ser modificados, conforme o passo a passo abaixo:
  
  ### Configurando os diretórios
  Com o projeto YoutubeOpenGL.sln aberto no Visual Studio deve-se configurar os diretorios.
