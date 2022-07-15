@@ -86,6 +86,7 @@ Câmera 3:
 
 ## Autores 
 ** Equipe 2: **
+  <br />Vanessa Carvalho Do Nascimento - 471584
   <br />Expedito Rodrigues Magalhães Filho - 378989
   <br />Francilândio Lima - 472644
   <br />Francisco Anderson Mendonça Freire - 385107
