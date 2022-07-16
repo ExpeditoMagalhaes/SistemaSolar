@@ -86,10 +86,10 @@ Câmera 3:
 
 ## Autores 
 ** Equipe 2: **
-  <br />Vanessa Carvalho Do Nascimento - 471584
   <br />Expedito Rodrigues Magalhães Filho - 378989
-  <br />Francilândio Lima - 472644
+  <br />Fiama Carla Martins de Sousa - 472959
   <br />Francisco Anderson Mendonça Freire - 385107
   <br />Francisco Evandro Ribeiro Martins Filho - 385143
-  <br />Fiama Carla Martins de Sousa - 472959
+  <br />Francilândio Lima - 472644
+  <br />Vanessa Carvalho Do Nascimento - 471584
   
